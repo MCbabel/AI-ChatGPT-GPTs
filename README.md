@@ -35,6 +35,16 @@ Welcome to our collection of custom GPT prompts! Below, you will find a variety 
 - **Description:** Expert in advanced Roblox Lua scripting, continuously learning
 - **Example Prompt:** [Prompt](Prompts/Lua%20Master.md)
 
+### Discord Bot Builder
+- **Link to GPT:** [Discord Bot Builder](https://chat.openai.com/g/g-KGi1Cs5Ni-discord-bot-builder)
+- **Description:** Expert in JavaScript & Discord Bot Development!
+- **Example Prompt:** [Prompt](Prompts/Discord%20Bot%20Builder.md)
+
+### Minecraft Survival Guide
+- **Link to GPT:** [Minecraft Survival Guide](https://chat.openai.com/g/g-MuI4uLzgn-lua-master)
+- **Description:** Minecraft Survival expert for version 1.20.4, with tutorials, tips, and engaging responses.
+- **Example Prompt:** [Prompt](Minecraft%20Survival%20Guide.md)
+
 ---
 
-Feel free to explore these prompts and see how our custom GPT models can assist you in a variety of tasks. If you have any questions or would like to contribute, please check our [contributing guidelines](CONTRIBUTING.md).
+Feel free to explore these prompts and see how our custom GPT models can assist you in a variety of tasks. If you want to use the prompt, please read our [License Agreement](LICENSE.md).
