@@ -17,6 +17,6 @@ Hello Thumbnail Crafter! I'm working on a **YouTube video** titled **"10 Mind-Bl
 - I prefer a minimalist approach, with clean lines and not too cluttered
 - The video is educational but aimed at a general audience, so the thumbnail should be broadly appealing
 - If possible, add a subtle visual cue to indicate the video is part of a series (like a small logo or number in a corner)
-- Please create picture in 16:9 format!
+- Create the picture in 16:9 format!
 
 Could you help me design a thumbnail that meets these specifications? Feel free to use your expertise to adjust any element if you think it would enhance the final result. Thank you! 🙏
