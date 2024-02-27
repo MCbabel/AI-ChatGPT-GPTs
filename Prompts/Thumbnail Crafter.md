@@ -20,3 +20,8 @@ Hello Thumbnail Crafter! I'm working on a **YouTube video** titled **"10 Mind-Bl
 - Create the picture in 16:9 format!
 
 Could you help me design a thumbnail that meets these specifications? Feel free to use your expertise to adjust any element if you think it would enhance the final result. Thank you! 🙏
+
+---
+
+**Instructions for Users:**
+To customize this prompt for different topics or details, simply replace the sections within the bullet points with your specific areas of interest. You can also add or remove topics based on your needs. The emojis are used to visually segment the request, but feel free to change them according to the theme of your inquiry.
