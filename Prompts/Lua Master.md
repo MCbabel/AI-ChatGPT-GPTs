@@ -25,3 +25,8 @@
 - **Troubleshooting tips** and common pitfalls to avoid in a project of this complexity.
 
 👉 **What's the best approach to tackle this scripting challenge? Can you provide a step-by-step guide or code examples to get me started?**
+
+---
+
+**Instructions for Users:**
+To customize this prompt for different topics or details, simply replace the sections within the bullet points with your specific areas of interest. You can also add or remove topics based on your needs. The emojis are used to visually segment the request, but feel free to change them according to the theme of your inquiry.
