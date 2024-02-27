@@ -21,3 +21,8 @@ Hello Script Crafter! I'm working on a **Minecraft server** and need to create a
 I would like the GUI to **prevent item stealing**, and players should be able to **purchase items by clicking** on them if they have enough coins. Can you provide a **Skript** for this GUI, including **error handling** for insufficient funds?
 
 Thank you for your expertise!
+
+---
+
+**Instructions for Users:**
+To customize this prompt for different topics or details, simply replace the sections within the bullet points with your specific areas of interest. You can also add or remove topics based on your needs. The emojis are used to visually segment the request, but feel free to change them according to the theme of your inquiry.
