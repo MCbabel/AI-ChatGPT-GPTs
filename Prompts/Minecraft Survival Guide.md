@@ -17,3 +17,8 @@ I want to create a self-sustaining base in a challenging biome (let's say, a des
 - **Aesthetics and Functionality**: While functionality is key, I'd also like my base to have aesthetic appeal. Any tips on integrating form with function?
 
 I appreciate your guidance and can't wait to apply your expert advice to conquer this challenge! Let's make this adventure epic. 🛠️🏰
+
+---
+
+**Instructions for Users:**
+To customize this prompt for different topics or details, simply replace the sections within the bullet points with your specific areas of interest. You can also add or remove topics based on your needs. The emojis are used to visually segment the request, but feel free to change them according to the theme of your inquiry.
