@@ -12,3 +12,7 @@ Hello, Discord Bot Builder! I'm working on a Discord bot and need your expertise
   - Real-time update of poll results as users vote.
   - Poll duration setting (default to 1 hour).
   
+---
+
+**Instructions for Users:**
+To customize this prompt for different topics or details, simply replace the sections within the bullet points with your specific areas of interest. You can also add or remove topics based on your needs. The emojis are used to visually segment the request, but feel free to change them according to the theme of your inquiry.
