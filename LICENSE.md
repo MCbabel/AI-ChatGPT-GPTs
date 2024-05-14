@@ -2,7 +2,7 @@
 
 ## Copyright
 
-Copyright (c) 2024 MCbabel.de
+Copyright (c) 2024 Nexara Studio Inc.
 
 All rights reserved.
 
